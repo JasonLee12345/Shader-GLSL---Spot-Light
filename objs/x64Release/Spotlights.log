@@ -1,0 +1,13 @@
+﻿Build started 7/15/2016 4:51:48 PM.
+     1>Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\Spotlights\Spotlights.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\) contains files shared from another project (GraphicsLibrary.vcxproj, MathLibrary.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\bin\Spotlights.exe" /NOLOGO glew32.lib freeglut.lib GraphicsLibrary.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\bin\Spotlights.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\bin\Spotlights.lib" /MACHINE:X64 "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\main.obj"
+         Generating code
+         Finished generating code
+         Spotlights.vcxproj -> C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\bin\Spotlights.exe
+     1>Done Building Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\Spotlights\Spotlights.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.80

@@ -1,0 +1,8 @@
+﻿Build started 4/24/2016 6:39:59 PM.
+     1>Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\MathLibrary\MathLibrary.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\) contains files shared from another project (GraphicsLibrary.vcxproj, Spotlights.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Done Building Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\MathLibrary\MathLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

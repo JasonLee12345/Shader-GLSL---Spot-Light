@@ -1,0 +1,18 @@
+﻿Build started 7/15/2016 4:51:47 PM.
+     1>Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\GraphicsLibrary\GraphicsLibrary.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\) contains files shared from another project (MathLibrary.vcxproj, Spotlights.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\\" /Fd"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\vc120.pdb" /Gd /TP /errorReport:prompt ObjMesh.cpp
+         ObjMesh.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\lib\GraphicsLibrary.lib" /NOLOGO /MACHINE:X64 /LTCG "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\Mesh.obj"
+         "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\ObjMesh.obj"
+         "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\PNG.obj"
+         "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\Shader.obj"
+         "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\objs\x64Release\Texture.obj"
+         GraphicsLibrary.vcxproj -> C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\lib\GraphicsLibrary.lib
+     1>Done Building Project "C:\Users\Jason\Desktop\GPU&Shader\Projects\SpotLight\GraphicsLibrary\GraphicsLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35
